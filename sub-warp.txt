@@ -1,4 +1,4 @@
-warp://188.114.98.37:7281/?ifp=5-10
-warp://188.114.99.134:7281/?ifp=5-10
-warp://188.114.96.110:891/?ifp=5-10
-warp://162.159.195.86:891/?ifp=5-10
+https://api.yebekhe.link/warp?key=&device_name=WARP+&singbox=true&ip=162.159.195.174&port=880
+https://api.yebekhe.link/warp?key=&device_name=WARP+&singbox=true&ip=162.159.192.103&port=880
+https://api.yebekhe.link/warp?key=&device_name=WARP+&singbox=true&ip=188.114.96.20&port=894
+https://api.yebekhe.link/warp?key=&device_name=WARP+&singbox=true&ip=162.159.192.155&port=880
