@@ -1,4 +1,4 @@
-warp://188.114.99.21:1010/?ifp=5-10#T.ME/@GiGPlus
-warp://162.159.195.232:894/?ifp=5-10#T.ME/@GiGPlus
-warp://162.159.192.41:1010/?ifp=5-10#T.ME/@GiGPlus
-warp://188.114.98.71:1010/?ifp=5-10#T.ME/@GiGPlus
+warp://188.114.98.138:859/?ifp=5-10#T.ME/@GiGPlus
+warp://188.114.97.244:1018/?ifp=5-10#T.ME/@GiGPlus
+warp://162.159.195.110:859/?ifp=5-10#T.ME/@GiGPlus
+warp://188.114.97.26:859/?ifp=5-10#T.ME/@GiGPlus
